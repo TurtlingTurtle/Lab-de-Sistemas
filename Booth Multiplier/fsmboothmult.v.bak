@@ -1,0 +1,11 @@
+module fsmboothmult(
+	input start,
+	input valid,
+	output prodload,
+	output multload,
+	output 
+);
+
+parameter BITS = 6;
+
+endmodule
